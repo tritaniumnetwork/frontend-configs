@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Tritanium",
+    "links": [
+      {
+        "text": "Home",
+        "url": "https://tritanium.network/"
+      },
+      {
+        "text": "Docs",
+        "url": "https://docs.tritanium.wiki/"
+      },
+      {
+        "text": "Audit",
+        "url": "https://github.com/TechRate/Smart-Contract-Audits/blob/main/August_2023/Tritanium.pdf"
+      },
+      {
+        "text": "Whitepaper",
+        "url": "https://tritanium.network/whitepaper.pdf"
+      },
+      {
+        "text": "Tokenomics",
+        "url": "https://docs.tritanium.wiki/about-us/tokenomic-trn"
+      }
+    ]
+  },
+  {
+    "title": "Apps",
+    "links": [
+      {
+        "text": "Wallet",
+        "url": "https://wallet.tritanium.network"
+      },
+      {
+        "text": "Dex Swap Trading",
+        "url": "https://tritandex.com"
+      },
+      {
+        "text": "Staking & Farming",
+        "url": "https://tritandex.com/"
+      },
+      {
+        "text": "Validator",
+        "url": "https://validator.tritanium.network"
+      },
+      {
+        "text": "Server Status",
+        "url": "https://status.trritanscan.com"
+      },
+      {
+        "text": "Help Desk",
+        "url": "https://docs.tritanium.wiki/about-us/faq"
+      }
+    ]
+  },
+  {
+    "title": "Community",
+    "links": [
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/TritaniumChain"
+      },
+      {
+        "text": "Telegram",
+        "url": "https://t.me/TritaniumGroup"
+      },
+      {
+        "text": "Medium",
+        "url": "https://open-rsk-dev.slack.com/ssb/redirect"
+      }
+    ]
+  }
+]

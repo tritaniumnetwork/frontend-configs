@@ -1,0 +1,14 @@
+[{
+		"title": "Tritanium Mainnet",
+		"url": "https://rootstock.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/tritaniumnetwork/frontend-configs/main/configs/network-icons/tritanium_green.svg"
+	},
+	{
+		"title": "Tritanium Testnet",
+		"url": "https://testnet.tritanscan.com",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/tritaniumnetwork/frontend-configs/main/configs/network-icons/tritanium_green.svg",
+		"isActive": true
+	}
+]
